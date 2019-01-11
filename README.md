@@ -1,5 +1,5 @@
 # dzsal-node-mod-server
-Node script for reporting mods to DZSA Launcher. This **does not** run/monitor/manage the server dayz exe.
+Node script for reporting mods to DZSA Launcher. This **does not** run/monitor/manage the dayz server exe.
 
 # Usage (noobs)
 - Download exe from [releases](https://github.com/maca134/dzsal-node-mod-server/releases).
